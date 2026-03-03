@@ -1,1 +1,1 @@
-source "$BR2_EXTERNAL_project_base_PATH/home/badu/assignment-4-paulbobin/base_external/package/aesd-assignments/Config.in"
+source "$BR2_EXTERNAL_assignment_4_PATH/package/aesd-assignments/Config.in"
