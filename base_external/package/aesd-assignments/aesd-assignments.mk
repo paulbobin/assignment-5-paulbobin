@@ -4,7 +4,7 @@
 #
 ##############################################################
 
-AESD_ASSIGNMENTS_VERSION = b1cc66339fc499869b67065db5ce466e75f44fef
+AESD_ASSIGNMENTS_VERSION = 1f95061ac94f5b8ca182450b0d78cbbe53fb318b
 AESD_ASSIGNMENTS_SITE = git@github.com:cu-ecen-aeld/assignments-3-and-later-paulbobin.git
 AESD_ASSIGNMENTS_SITE_METHOD = git
 AESD_ASSIGNMENTS_GIT_SUBMODULES = YES
